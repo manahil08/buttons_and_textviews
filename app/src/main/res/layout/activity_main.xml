@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="208dp"
         android:layout_height="150dp"
-
+        android:text="my first work at android studio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.599"
         app:layout_constraintLeft_toLeftOf="parent"
